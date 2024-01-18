@@ -18,7 +18,8 @@ public class Commom_Use_Methods
 	public static String getDataFromExcel(int row,int cell) throws EncryptedDocumentException, IOException {
 		
 	
-	FileInputStream myFile=new FileInputStream("C:\\Users\\ypwr9\\OneDrive\\Documents\\Book1.xlsx");
+	FileInputStream myFile=new FileInputStream("C:\\Users\\ypwr9\\OneDrive\\Desktop\\Nivedita\\Selenium\\Book1.xlsx");
+	//FileInputStream myFile=new FileInputStream(System.getProperty("user.dir")+"")
 	Sheet mySheet = WorkbookFactory.create(myFile).getSheet("Sheet3");
 	String value = mySheet.getRow(row).getCell(cell).getStringCellValue();
 	return value;
@@ -27,7 +28,7 @@ public class Commom_Use_Methods
 	public static void takescreenshot(WebDriver driver,String Id) throws IOException {
 		File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		
-		File dest=new File("C:\\Users\\ypwr9\\OneDrive\\Desktop\\Nivedita\\selenium screenshot\\coverfox"+Id+".png");
+		File dest=new File("C:\\Users\\ypwr9\\OneDrive\\Desktop\\Nivedita\\Selenium\\selenium screenshot\\coverfox1"+Id+".png");
 		FileHandler.copy(src, dest);
 	}
 	public static String readDataFromProperty(String key) throws IOException {

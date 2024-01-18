@@ -39,8 +39,8 @@ public class CF_TC555_ValidateSearchResultPolicyFromTextAndBanners extends Launc
 	  @BeforeClass
 	  public void beforeClass() 
 	  {
-		  logger=logger.getLogger("coverfox");
-		  PropertyConfigurator.configure("log4j.properties");
+		  logger=logger.getLogger("log4jCoverFox");
+		  PropertyConfigurator.configure(getClass().getProtectionDomain().getCodeSource().getLocation().getPath() + "log4j.properties");
 		  logger.info("launching browser ");
 		  Reporter.log("Browser luanching", true);
 		  luanchingBrowser();
@@ -115,7 +115,7 @@ public class CF_TC555_ValidateSearchResultPolicyFromTextAndBanners extends Launc
 		 Thread.sleep(5000);
   }
 	@Test
-	public void CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla() throws InterruptedException {
+	public void CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla() throws InterruptedException, IOException {
 		
 		Thread.sleep(7000);
 		logger.info("Fetching result or adity birla from text ");
@@ -131,6 +131,9 @@ public class CF_TC555_ValidateSearchResultPolicyFromTextAndBanners extends Launc
 		Assert.assertEquals(adityaText, adityaBanners,"Text result not matching with banners result,TC is failed. ");
 		logger.info("TC2 is pass ");
 		Reporter.log("TC2 is pass",true);
+		Reporter.log("Taking screenshots",true);
+		Commom_Use_Methods.takescreenshot(driver, "CF_TC555");
+		 Thread.sleep(1000);
 	}
 	
 
@@ -139,7 +142,7 @@ public class CF_TC555_ValidateSearchResultPolicyFromTextAndBanners extends Launc
   public void afterMethod() throws InterruptedException 
   {
 	  	Reporter.log("Browser closing ",true);
-		 Thread.sleep(9000);
+		 Thread.sleep(5000);
 		 closingBrowser();
   }
 

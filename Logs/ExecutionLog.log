@@ -46,3 +46,210 @@
 2024-01-12 13:18:26,246 - coverfox -INFO - Fetching result or adity birla from text 
 2024-01-12 13:18:33,305 - coverfox -INFO - Fetching result of aditya birla from banners 
 2024-01-12 13:18:43,346 - coverfox -INFO - TC2 is pass 
+2024-01-16 20:37:51,869 - coverfox -INFO - launching browser 
+2024-01-16 20:37:58,160 - coverfox -INFO - Click on gender button 
+2024-01-16 20:37:58,833 - coverfox -INFO - Click on Next button 
+2024-01-16 20:37:59,413 - coverfox -INFO - handeling dropDown 
+2024-01-16 20:38:00,215 - coverfox -INFO - Click on next button 
+2024-01-16 20:38:00,326 - coverfox -INFO - Entering pin code 
+2024-01-16 20:38:01,754 - coverfox -INFO - entering mobile number 
+2024-01-16 20:38:01,894 - coverfox -INFO - Click on continue button 
+2024-01-16 20:38:01,971 - coverfox -INFO - Click on filter button 
+2024-01-16 20:38:07,055 - coverfox -INFO - Click on checkBox 
+2024-01-16 20:38:07,628 - coverfox -INFO - Click on apply button 
+2024-01-16 20:38:15,260 - coverfox -INFO - Fetching result or adity birla from text 
+2024-01-16 20:38:22,321 - coverfox -INFO - Fetching result of aditya birla from banners 
+2024-01-16 20:38:32,367 - coverfox -INFO - TC2 is pass 
+2024-01-16 20:49:29,472 - coverfox -INFO - launching browser 
+2024-01-17 10:32:50,413 - coverfox -INFO - launching browser 
+2024-01-17 10:32:57,753 - coverfox -INFO - Click on gender button 
+2024-01-17 10:32:58,621 - coverfox -INFO - Click on Next button 
+2024-01-17 10:32:59,207 - coverfox -INFO - handeling dropDown 
+2024-01-17 10:33:00,014 - coverfox -INFO - Click on next button 
+2024-01-17 10:33:00,086 - coverfox -INFO - Entering pin code 
+2024-01-17 10:33:01,546 - coverfox -INFO - entering mobile number 
+2024-01-17 10:33:01,700 - coverfox -INFO - Click on continue button 
+2024-01-17 10:33:01,796 - coverfox -INFO - Click on filter button 
+2024-01-17 10:33:06,938 - coverfox -INFO - Click on checkBox 
+2024-01-17 10:33:07,538 - coverfox -INFO - Click on apply button 
+2024-01-17 10:33:15,246 - coverfox -INFO - Fetching result or adity birla from text 
+2024-01-17 10:33:22,311 - coverfox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 10:33:32,358 - coverfox -INFO - TC2 is pass 
+2024-01-17 10:42:24,985 - coverfox -INFO - launching browser 
+2024-01-17 10:42:30,213 - coverfox -INFO - Click on gender button 
+2024-01-17 10:42:30,884 - coverfox -INFO - Click on Next button 
+2024-01-17 10:42:31,498 - coverfox -INFO - handeling dropDown 
+2024-01-17 10:42:32,364 - coverfox -INFO - Click on next button 
+2024-01-17 10:42:32,472 - coverfox -INFO - Entering pin code 
+2024-01-17 10:42:33,840 - coverfox -INFO - entering mobile number 
+2024-01-17 10:42:33,988 - coverfox -INFO - Click on continue button 
+2024-01-17 10:42:34,075 - coverfox -INFO - Click on filter button 
+2024-01-17 10:42:39,222 - coverfox -INFO - Click on checkBox 
+2024-01-17 10:42:39,845 - coverfox -INFO - Click on apply button 
+2024-01-17 10:42:47,554 - coverfox -INFO - Fetching result or adity birla from text 
+2024-01-17 10:42:54,621 - coverfox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 10:43:04,672 - coverfox -INFO - TC2 is pass 
+2024-01-17 10:46:26,693 - coverfox -INFO - launching browser 
+2024-01-17 10:46:31,868 - coverfox -INFO - Click on gender button 
+2024-01-17 10:46:32,880 - coverfox -INFO - Click on Next button 
+2024-01-17 10:46:33,493 - coverfox -INFO - handeling dropDown 
+2024-01-17 10:46:34,407 - coverfox -INFO - Click on next button 
+2024-01-17 10:46:34,484 - coverfox -INFO - Entering pin code 
+2024-01-17 10:46:35,781 - coverfox -INFO - entering mobile number 
+2024-01-17 10:46:35,968 - coverfox -INFO - Click on continue button 
+2024-01-17 10:46:36,072 - coverfox -INFO - Click on filter button 
+2024-01-17 10:46:41,259 - coverfox -INFO - Click on checkBox 
+2024-01-17 10:46:41,927 - coverfox -INFO - Click on apply button 
+2024-01-17 10:46:49,609 - coverfox -INFO - Fetching result or adity birla from text 
+2024-01-17 10:46:56,688 - coverfox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 10:47:06,731 - coverfox -INFO - TC2 is pass 
+2024-01-17 10:54:37,045 - log4jCoverFox -INFO - launching browser 
+2024-01-17 10:54:42,573 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 10:54:43,358 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 10:54:43,967 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 10:54:45,100 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 10:54:45,178 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 10:54:46,522 - log4jCoverFox -INFO - entering mobile number 
+2024-01-17 10:54:46,668 - log4jCoverFox -INFO - Click on continue button 
+2024-01-17 10:54:46,755 - log4jCoverFox -INFO - Click on filter button 
+2024-01-17 10:54:51,920 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-17 10:54:52,519 - log4jCoverFox -INFO - Click on apply button 
+2024-01-17 10:55:00,229 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-17 10:55:07,284 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 10:55:17,323 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-17 10:57:34,747 - log4jCoverFox -INFO - launching browser 
+2024-01-17 10:57:39,064 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 10:57:39,800 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 10:57:40,455 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 10:57:41,403 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 10:57:41,479 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 10:57:42,573 - log4jCoverFox -INFO - entering mobile number 
+2024-01-17 10:57:42,731 - log4jCoverFox -INFO - Click on continue button 
+2024-01-17 10:57:42,833 - log4jCoverFox -INFO - Click on filter button 
+2024-01-17 10:57:48,000 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-17 10:57:48,620 - log4jCoverFox -INFO - Click on apply button 
+2024-01-17 10:57:56,311 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-17 10:58:03,369 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 10:58:13,409 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-17 10:59:26,593 - log4jCoverFox -INFO - launching browser 
+2024-01-17 10:59:31,398 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 10:59:31,929 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 10:59:32,516 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 10:59:33,319 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 10:59:33,407 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 10:59:34,539 - log4jCoverFox -INFO - entering mobile number 
+2024-01-17 10:59:34,706 - log4jCoverFox -INFO - Click on continue button 
+2024-01-17 10:59:34,793 - log4jCoverFox -INFO - Click on filter button 
+2024-01-17 10:59:39,935 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-17 10:59:40,548 - log4jCoverFox -INFO - Click on apply button 
+2024-01-17 10:59:48,256 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-17 10:59:55,324 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 11:00:05,362 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-17 12:53:31,278 - log4jCoverFox -INFO - launching browser 
+2024-01-17 12:53:36,105 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 12:53:36,592 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 12:53:37,312 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 12:53:38,115 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 12:53:38,171 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 12:54:31,999 - log4jCoverFox -INFO - launching browser 
+2024-01-17 12:54:37,700 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 12:54:38,144 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 12:54:38,680 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 12:54:39,368 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 12:54:39,462 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 12:55:55,279 - log4jCoverFox -INFO - launching browser 
+2024-01-17 12:55:59,522 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 12:56:00,299 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 12:56:00,881 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 12:56:01,643 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 12:56:01,706 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 12:58:54,003 - log4jCoverFox -INFO - launching browser 
+2024-01-17 12:58:59,864 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 12:59:00,318 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 12:59:00,816 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 12:59:01,566 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 12:59:01,635 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 13:01:59,261 - log4jCoverFox -INFO - launching browser 
+2024-01-17 13:02:04,150 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 13:02:04,932 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 13:02:05,595 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 13:02:06,550 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 13:02:06,679 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 13:02:08,073 - log4jCoverFox -INFO - entering mobile number 
+2024-01-17 13:02:08,205 - log4jCoverFox -INFO - Click on continue button 
+2024-01-17 13:02:08,294 - log4jCoverFox -INFO - Click on filter button 
+2024-01-17 13:02:13,381 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-17 13:02:13,966 - log4jCoverFox -INFO - Click on apply button 
+2024-01-17 13:02:21,614 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-17 13:02:28,670 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 13:02:38,708 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-17 13:42:15,480 - log4jCoverFox -INFO - launching browser 
+2024-01-17 13:42:19,736 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 13:42:20,349 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 13:42:20,954 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 13:42:21,819 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 13:42:21,900 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 13:42:23,424 - log4jCoverFox -INFO - entering mobile number 
+2024-01-17 13:42:23,556 - log4jCoverFox -INFO - Click on continue button 
+2024-01-17 13:42:23,635 - log4jCoverFox -INFO - Click on filter button 
+2024-01-17 13:42:28,729 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-17 13:42:29,315 - log4jCoverFox -INFO - Click on apply button 
+2024-01-17 13:42:36,954 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-17 13:42:44,063 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 13:42:54,114 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-17 13:43:50,578 - log4jCoverFox -INFO - launching browser 
+2024-01-17 13:43:53,802 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 13:43:54,485 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 13:43:55,076 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 13:43:56,081 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 13:43:56,256 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 13:43:57,685 - log4jCoverFox -INFO - entering mobile number 
+2024-01-17 13:43:57,874 - log4jCoverFox -INFO - Click on continue button 
+2024-01-17 13:43:57,970 - log4jCoverFox -INFO - Click on filter button 
+2024-01-17 13:44:03,067 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-17 13:44:03,642 - log4jCoverFox -INFO - Click on apply button 
+2024-01-17 13:44:11,268 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-17 13:44:18,313 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 13:44:28,336 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-17 13:48:29,375 - log4jCoverFox -INFO - launching browser 
+2024-01-17 13:48:35,349 - log4jCoverFox -INFO - Click on gender button 
+2024-01-17 13:48:35,808 - log4jCoverFox -INFO - Click on Next button 
+2024-01-17 13:48:36,388 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-17 13:48:37,346 - log4jCoverFox -INFO - Click on next button 
+2024-01-17 13:48:37,436 - log4jCoverFox -INFO - Entering pin code 
+2024-01-17 13:48:38,829 - log4jCoverFox -INFO - entering mobile number 
+2024-01-17 13:48:38,970 - log4jCoverFox -INFO - Click on continue button 
+2024-01-17 13:48:39,057 - log4jCoverFox -INFO - Click on filter button 
+2024-01-17 13:48:44,153 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-17 13:48:44,737 - log4jCoverFox -INFO - Click on apply button 
+2024-01-17 13:48:52,371 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-17 13:48:59,410 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-17 13:49:09,449 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-18 13:24:19,098 - log4jCoverFox -INFO - launching browser 
+2024-01-18 13:24:23,329 - log4jCoverFox -INFO - Click on gender button 
+2024-01-18 13:24:24,226 - log4jCoverFox -INFO - Click on Next button 
+2024-01-18 13:24:24,940 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-18 13:24:26,107 - log4jCoverFox -INFO - Click on next button 
+2024-01-18 13:24:26,233 - log4jCoverFox -INFO - Entering pin code 
+2024-01-18 13:24:27,828 - log4jCoverFox -INFO - entering mobile number 
+2024-01-18 13:24:27,970 - log4jCoverFox -INFO - Click on continue button 
+2024-01-18 13:24:28,057 - log4jCoverFox -INFO - Click on filter button 
+2024-01-18 13:24:33,213 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-18 13:24:33,803 - log4jCoverFox -INFO - Click on apply button 
+2024-01-18 13:24:41,463 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-18 13:24:48,516 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-18 13:24:58,549 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-18 13:26:33,223 - log4jCoverFox -INFO - launching browser 
+2024-01-18 13:26:39,910 - log4jCoverFox -INFO - Click on gender button 
+2024-01-18 13:26:40,610 - log4jCoverFox -INFO - Click on Next button 
+2024-01-18 13:26:41,202 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-18 13:26:42,078 - log4jCoverFox -INFO - Click on next button 
+2024-01-18 13:26:42,161 - log4jCoverFox -INFO - Entering pin code 
+2024-01-18 13:26:43,587 - log4jCoverFox -INFO - entering mobile number 
+2024-01-18 13:26:43,734 - log4jCoverFox -INFO - Click on continue button 
+2024-01-18 13:26:43,832 - log4jCoverFox -INFO - Click on filter button 
+2024-01-18 13:26:48,950 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-18 13:26:49,555 - log4jCoverFox -INFO - Click on apply button 
+2024-01-18 13:26:57,242 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-18 13:27:04,295 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-18 13:27:14,341 - log4jCoverFox -INFO - TC2 is pass 

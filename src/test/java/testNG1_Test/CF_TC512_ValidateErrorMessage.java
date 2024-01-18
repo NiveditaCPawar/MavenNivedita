@@ -2,6 +2,8 @@ package testNG1_Test;
 
 import java.io.IOException;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
 import org.testng.Reporter;
@@ -19,7 +21,7 @@ import testNG1_POM.CoverFoxMemberDetails;
 import testNG1_Utility.Commom_Use_Methods;
 @Listeners(testNG_Listener.Listener.class)
 public class CF_TC512_ValidateErrorMessage  extends Launching_Closing_URL  {
- 
+	public static Logger logger;
 	CoverFoxHomePage homepage;
 	CoverFoxAddDetails adddetails;
 	CoverFoxHealthPlan healthPlan;
@@ -28,6 +30,9 @@ public class CF_TC512_ValidateErrorMessage  extends Launching_Closing_URL  {
 	@BeforeClass
 	  public void beforeClass() 
 	  {
+		
+			logger=Logger.getLogger("CoverFox1");
+			PropertyConfigurator.configure(getClass().getProtectionDomain().getCodeSource().getLocation().getPath() + "log4j.properties");
 		  Reporter.log("Browser luanching", true);
 		  luanchingBrowser();
 		

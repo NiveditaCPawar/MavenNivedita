@@ -47,25 +47,28 @@
       <![CDATA[TC2 is pass]]>
     </line>
     <line>
+      <![CDATA[Taking screenshots]]>
+    </line>
+    <line>
       <![CDATA[TC CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla is completed successfully]]>
     </line>
     <line>
       <![CDATA[Browser closing ]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-12T13:18:01 IST" name="Default suite" finished-at="2024-01-12T13:18:52 IST" duration-ms="50591">
+  <suite started-at="2024-01-17T13:42:15 IST" name="Default suite" finished-at="2024-01-17T13:43:00 IST" duration-ms="45294">
     <groups>
     </groups>
-    <test started-at="2024-01-12T13:18:01 IST" name="Default test" finished-at="2024-01-12T13:18:52 IST" duration-ms="50591">
+    <test started-at="2024-01-17T13:42:15 IST" name="Default test" finished-at="2024-01-17T13:43:00 IST" duration-ms="45294">
       <class name="testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-12T13:18:01 IST" name="beforeClass" finished-at="2024-01-12T13:18:08 IST" duration-ms="6980" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-17T13:42:15 IST" name="beforeClass" finished-at="2024-01-17T13:42:19 IST" duration-ms="4396" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser luanching]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-12T13:18:08 IST" name="beforeMethod" finished-at="2024-01-12T13:18:19 IST" duration-ms="10272" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-17T13:42:19 IST" name="beforeMethod" finished-at="2024-01-17T13:42:29 IST" duration-ms="10202" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Click on gender button]]>
@@ -99,7 +102,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-12T13:18:19 IST" name="CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla" finished-at="2024-01-12T13:18:43 IST" duration-ms="24122" status="PASS">
+        <test-method signature="CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-17T13:42:29 IST" name="CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla" finished-at="2024-01-17T13:42:55 IST" duration-ms="25444" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[TC CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla excecution is started]]>
@@ -114,11 +117,14 @@
               <![CDATA[TC2 is pass]]>
             </line>
             <line>
+              <![CDATA[Taking screenshots]]>
+            </line>
+            <line>
               <![CDATA[TC CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla is completed successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- CF_TC555_ValidateSearchResultPolicyOfAdidtyBirla -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-12T13:18:43 IST" name="afterMethod" finished-at="2024-01-12T13:18:52 IST" duration-ms="9133" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNG1_Test.CF_TC555_ValidateSearchResultPolicyFromTextAndBanners@206a70ef]" started-at="2024-01-17T13:42:55 IST" name="afterMethod" finished-at="2024-01-17T13:43:00 IST" duration-ms="5186" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser closing ]]>
