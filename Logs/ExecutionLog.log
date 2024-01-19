@@ -253,3 +253,31 @@
 2024-01-18 13:26:57,242 - log4jCoverFox -INFO - Fetching result or adity birla from text 
 2024-01-18 13:27:04,295 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
 2024-01-18 13:27:14,341 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-18 14:03:28,329 - log4jCoverFox -INFO - launching browser 
+2024-01-18 14:03:32,680 - log4jCoverFox -INFO - Click on gender button 
+2024-01-18 14:03:33,656 - log4jCoverFox -INFO - Click on Next button 
+2024-01-18 14:03:34,308 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-18 14:03:35,444 - log4jCoverFox -INFO - Click on next button 
+2024-01-18 14:03:35,529 - log4jCoverFox -INFO - Entering pin code 
+2024-01-18 14:03:37,112 - log4jCoverFox -INFO - entering mobile number 
+2024-01-18 14:03:37,308 - log4jCoverFox -INFO - Click on continue button 
+2024-01-18 14:03:37,406 - log4jCoverFox -INFO - Click on filter button 
+2024-01-18 14:03:42,572 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-18 14:03:43,214 - log4jCoverFox -INFO - Click on apply button 
+2024-01-18 14:03:50,953 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-18 14:03:58,037 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-18 14:04:08,091 - log4jCoverFox -INFO - TC2 is pass 
+2024-01-19 12:42:01,290 - log4jCoverFox -INFO - launching browser 
+2024-01-19 12:42:06,417 - log4jCoverFox -INFO - Click on gender button 
+2024-01-19 12:42:06,844 - log4jCoverFox -INFO - Click on Next button 
+2024-01-19 12:42:07,395 - log4jCoverFox -INFO - handeling dropDown 
+2024-01-19 12:42:08,082 - log4jCoverFox -INFO - Click on next button 
+2024-01-19 12:42:08,166 - log4jCoverFox -INFO - Entering pin code 
+2024-01-19 12:42:09,428 - log4jCoverFox -INFO - entering mobile number 
+2024-01-19 12:42:09,579 - log4jCoverFox -INFO - Click on continue button 
+2024-01-19 12:42:09,665 - log4jCoverFox -INFO - Click on filter button 
+2024-01-19 12:42:14,766 - log4jCoverFox -INFO - Click on checkBox 
+2024-01-19 12:42:15,343 - log4jCoverFox -INFO - Click on apply button 
+2024-01-19 12:42:23,012 - log4jCoverFox -INFO - Fetching result or adity birla from text 
+2024-01-19 12:42:30,053 - log4jCoverFox -INFO - Fetching result of aditya birla from banners 
+2024-01-19 12:42:40,084 - log4jCoverFox -INFO - TC2 is pass 
